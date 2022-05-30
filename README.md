@@ -1,1 +1,1 @@
-# [site](https://pnaydysh.github.io/site/)
+# [website](https://pnaydysh.github.io/site/)
