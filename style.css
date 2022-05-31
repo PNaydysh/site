@@ -151,7 +151,7 @@ header a {
 
 .product-photo {
 	position: relative;
-	padding-bottom: 90%;
+	padding-bottom: 80%;
 	overflow: hidden;
 	border-bottom: 5px solid #C4C4C4;
 }
