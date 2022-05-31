@@ -194,7 +194,7 @@ header a {
     color: #933C0C
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
     .slide {
         margin-left: 0;
         background-size: 80% auto;
