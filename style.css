@@ -190,23 +190,6 @@ header a {
 	margin: 10px;
 }
 
-.check {
-    display: flex;
-}
-.checkout {
-    display: flex;
-    margin-top: 500px;
-    margin-left: -1300px;
-    font-size: 20px;
-    margin-bottom: 40px;
-}
-.checkout li {
-    border-radius: 15px;
-    background-color: #000;
-    padding: 10px;
-    color:#C4C4C4;
-}
-
 .colortext {
     color: #933C0C
 }
@@ -311,22 +294,5 @@ header a {
         bottom: 0;
         left: 0;
         margin: 10px;
-    }
-
-    .check {
-        display: flex;
-    }
-    .checkout {
-        display: flex;
-        margin-top: 300px;
-        margin-left: -600px;
-        font-size: 16px;
-        margin-bottom: 40px;
-    }
-    .checkout li {
-        border-radius: 15px;
-        background-color: #000;
-        padding: 10px;
-        color:#C4C4C4;
     }
 }
